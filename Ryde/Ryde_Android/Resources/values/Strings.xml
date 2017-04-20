@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="Hello">Hello World, Click Me!</string>
+  <string name="ApplicationName">Ryde_Android</string>
+  <string name="openMap">Open Map</string>
+  <string name="app_name">Maps Demo</string>
+  <string name="mapsAppText">Show Maps App</string>
+  <string name="mapsAppTextDescription">Start up the Android Map application.</string>
+  <string name="streetViewText">Show Street View</string>
+  <string name="activity_label_axml">basic map demo"</string>
+  <string name="activity_description_axml">Load the MapFrament in the layout file.</string>
+  <string name="activity_label_locationdemo">Location Demo</string>
+  <string name="activity_description_locationdemo">Shows how to get gps.</string>
+  <string name="activity_label_mapwithoverlays">Overlays Demo</string>
+  <string name="activity_description_mapwithoverlays">Shows how to use overlays.</string>
+</resources>
