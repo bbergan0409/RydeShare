@@ -1,4 +1,4 @@
-# Introduction
+# RydeShare Introduction
 - Allow users connect and plan trips along the same routes to similar destinations
 - Reduce commute and travel cost
 
@@ -6,11 +6,10 @@
 TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
 1.	github repo - 'https://bbergan.visualstudio.com/RydeShare.Project/_git/RydeShare.Project'
 2.	Software dependencies
-    a. Xamarin extensions and libraries
-    b. Android SDK
+    - Xamarin extensions and libraries
+    - Android SDK
 3.	Latest releases
-    a. 0.0.0.0 - Prototype    
-4.	API references
+    1. 0.0.0.0 - Prototype
 
 # Build and Test
 1. Clone github repo
